@@ -218,7 +218,7 @@
 										<p><span class="title-s">Name: </span> <span>Ankitha Konakanchi</span></p>
 										<p><span class="title-s">Job Role: </span> <span>Full Stack Java Developer</span></p>
 										<p><span class="title-s">Experience: </span> <span>5+ Years</span></p>
-										<p><span class="title-s">Address: </span> <span>Birmingham, Alabama</span></p>
+										<p><span class="title-s">Address: </span> <span>Texas</span></p>
 									  </div>
 									</div>
 								  </div>
@@ -476,14 +476,13 @@ Providing solutions like AI, machine learning, and automation for enhanced produ
 
  
 	
-    <footer class="ftco-footer ftco-section">
+<footer class="ftco-footer ftco-section">
 		<div class="container">
 		  <div class="row">
 			<div class="col-md-12 text-center">
-  
-			  <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-	Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-	<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+  <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+	  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 			</div>
 		  </div>
 		</div>
