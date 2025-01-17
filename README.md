@@ -127,7 +127,7 @@ ul li {
             <h2>Contact</h2>
             <div class="contact">
                 <p>Email: <a href="mailto:kankitha1803@gmail.com">kankitha1803@gmail.com</a></p>
-                <p>Phone: +1-234-567-890</p>
+                <p>Phone: +1-414-578-0677</p>
                 <p>LinkedIn: <a href="https://www.linkedin.com/in/ankitha-konakanchi-7b93302b1" target="_blank">https://www.linkedin.com/in/ankitha-konakanchi-7b93302b1</a></p>
                 <p>GitHub: <a href="https://github.com/AnkithaKonakanchi" target="_blank">github.com/ankitha</a></p>
             </div>
