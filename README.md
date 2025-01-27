@@ -1,4 +1,4 @@
-<img src="Profile.jpg" alt="Profile Picture" width="200" height="200">
+<img src="Profile.jpg" alt="Profile Picture" width="300" height="300">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
