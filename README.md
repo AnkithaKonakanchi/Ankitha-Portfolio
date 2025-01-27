@@ -1,4 +1,4 @@
-<img src="WhatsApp Image 2025-01-17 at 11.15.23_c1e5830a.jpg" alt="Profile Picture" width="200" height="200">
+<img src="https://github.com/AnkithaKonakanchi/Ankitha-Portfolio/blob/b6833c397e717d33b57a53e02ffe1219813c2c05/WhatsApp%20Image%202025-01-17%20at%2011.15.23_c1e5830a.jpg" alt="Profile Picture" width="200" height="200">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
