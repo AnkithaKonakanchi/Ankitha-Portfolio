@@ -90,14 +90,15 @@ ul li {
             </ul>
         </section>
         <h2> Profesional Experience </h2>
-        <h3>Full Stack Developer</h3>
-        <b><p>Micron Technologies</b></p><p>,Boise ID(Sep 2023 - Present)</p></b>
+        <h3> Full Stack Developer </h3>
+        <b><p>Micron Technologies,Boise ID(Sep 2023 - Present)</p></b>
         <ul style="list-style-type:disc;"> 
             <li>Designed and developed scalable web applications using Java 8, Spring Boot, and React.js, implementing RESTful services and integrating advanced security features like OAuth 2.0 and JWT. Deployed and managed applications on AWS services including EC2, S3, RDS, and Kubernetes.</li>
             <li>Built microservices using Spring Boot, Docker containers, and Amazon ECS, leveraging Apache Kafka for service interaction. Implemented CI/CD pipelines using Jenkins, ensuring seamless deployment and testing with JUnit. </li>
             <li>Delivered high-quality software in Agile/SCRUM environments, actively contributing to requirement analysis, design, and iterative development. Collaborated with cross-functional teams to ensure project goals were met, leveraging tools like Eclipse and Log4j for development and debugging.</li>
         </ul>
-        <p>AArete,Chicago IL(Oct 2021 - Aug 2023)</p>
+        <h4>Full Stack Developer</h4>
+        <b><p>AArete,Chicago IL(Oct 2021 - Aug 2023)</p></b>
         <ul style="list-style-type:disc;"> 
             <li>Designed and implemented scalable web applications using Java 8, Angular (2–8), and Spring Boot, leveraging advanced JavaScript (ES6), REST/SOAP APIs, and responsive design frameworks like Bootstrap. Delivered rich user experiences through Angular routing, directives, and reusable components. </li>
             <li>Deployed and managed microservices on AWS, Azure, and Google Cloud using Docker, Kubernetes, and Pivotal Cloud Foundry. Automated workflows with AWS Lambda, built secure APIs with API Gateway, and set up Continuous Integration/Continuous Delivery pipelines using Jenkins.</li>
