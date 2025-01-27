@@ -89,29 +89,25 @@ ul li {
                 <li>Problem Solving and Debugging</li>
             </ul>
         </section>
-        <section id = "Professional Experience">
-        <h2> Full Stack Developer</h2>
+        <h2> Profesional Experience </h2>
         <p>Micron Technologies,Boise ID(Sep 2023 - Present)</p>
         <ul> <li>line 1 </li>
             <li>line 1 </li>
             <li>line 1 </li>
             <li>line 1 </li>
         </ul>
-        <h2> Full Stack Developer</h2>
         <p>Micron Technologies,Boise ID(Sep 2023 - Present)</p>
         <ul> <li>line 1 </li>
             <li>line 1 </li>
             <li>line 1 </li>
             <li>line 1 </li>
         </ul>
-        <h2> Full Stack Developer</h2>
         <p>Micron Technologies,Boise ID(Sep 2023 - Present)</p>
         <ul> <li>line 1 </li>
             <li>line 1 </li>
             <li>line 1 </li>
             <li>line 1 </li>
         </ul>
-        <h2> Full Stack Developer</h2>
         <p>Micron Technologies,Boise ID(Sep 2023 - Present)</p>
         <ul> <li>line 1 </li>
             <li>line 1 </li>
