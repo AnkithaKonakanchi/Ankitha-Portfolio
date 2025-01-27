@@ -62,18 +62,12 @@ ul li {
 </head>
 
 <body>
-    <header>
-        <h1>Ankitha's Portfolio</h1>
-        <p>Welcome to my professional portfolio website!</p>
-    </header>
-
-<div class="container">
+    <div class="container">
         <section id="about">
             <h2>About Me</h2>
             <p>
-                Hi, I'm Ankitha, a passionate Full Stack Developer with expertise in front-end and back-end technologies.
-                I am dedicated to creating seamless user experiences and efficient systems. I have a strong background in
-                various modern tools and frameworks, and I am constantly striving to improve my skills and knowledge.
+               Hi I'm Ankitha, I am a results-oriented Full Stack Developer with over 5 years of experience designing and developing scalable, high-performing web and software solutions. My technical expertise encompasses front-end frameworks such as React and Angular, combined with back-end development using Node.js to deliver seamless, end-to-end applications.I specialize in building responsive, user-friendly interfaces and architecting efficient server-side solutions with optimized data management using SQL and NoSQL databases. Additionally, I have extensive experience leveraging cloud platforms like AWS to design scalable systems and implement CI/CD pipelines for efficient deployment and continuous delivery.
+
             </p>
         </section>
 
@@ -97,19 +91,21 @@ ul li {
             <li>Built microservices using Spring Boot, Docker containers, and Amazon ECS, leveraging Apache Kafka for service interaction. Implemented CI/CD pipelines using Jenkins, ensuring seamless deployment and testing with JUnit. </li>
             <li>Delivered high-quality software in Agile/SCRUM environments, actively contributing to requirement analysis, design, and iterative development. Collaborated with cross-functional teams to ensure project goals were met, leveraging tools like Eclipse and Log4j for development and debugging.</li>
         </ul>
-        <h4>Full Stack Developer</h4>
+        <h3> Full Stack Developer </h3>
         <b><p>AArete,Chicago IL(Oct 2021 - Aug 2023)</p></b>
         <ul style="list-style-type:disc;"> 
             <li>Designed and implemented scalable web applications using Java 8, Angular (2–8), and Spring Boot, leveraging advanced JavaScript (ES6), REST/SOAP APIs, and responsive design frameworks like Bootstrap. Delivered rich user experiences through Angular routing, directives, and reusable components. </li>
             <li>Deployed and managed microservices on AWS, Azure, and Google Cloud using Docker, Kubernetes, and Pivotal Cloud Foundry. Automated workflows with AWS Lambda, built secure APIs with API Gateway, and set up Continuous Integration/Continuous Delivery pipelines using Jenkins.</li>
             <li>Migrated on-premises servers and databases to cloud platforms while developing robust middle-tier applications with JPA-Hibernate and SQL optimization. Actively contributed to Agile processes through sprint planning, daily stand-ups, and collaborative development in SCRUM environments.</li>
         </ul>
+        <h3> Full Stack Developer </h3>
         <p>Gainwell Insurance,Salt lake City Utah(Feb 2019 - Sep 2021)</p>
         <ul style="list-style-type:disc;">
             <li>Designed and developed user-centric web applications using Java SE/EE, React.js, ES6, and TypeScript. Built dynamic and interactive UIs with React components, implementing routing services and HTTP client interceptors for secure and efficient communication with backend services.</li>
             <li>Migrated on-premises Java applications to Azure Virtual Machines and Azure SQL Database, enhancing performance and scalability. Deployed frontend applications on Azure App Service, integrating seamlessly with RESTful backend APIs.</li>
             <li>Automated build and deployment pipelines using Azure DevOps and Jenkins. Collaborated in Agile environments, utilizing tools like Slack and GitHub for efficient development, while providing user support, training, and maintenance for existing applications</li>
         </ul>
+        <h3> Java Developer </h3>
         <p>eClerk, Mumbai India</p>
         <ul style="list-style-type:disc;"> 
             <li>Designed and developed dynamic single-page applications (SPAs) using Angular, HTML5, CSS3, and Bootstrap. Built and deployed microservices with Spring Boot and Spring Cloud, integrating RESTful APIs for seamless data retrieval and client-server interaction. </li>
