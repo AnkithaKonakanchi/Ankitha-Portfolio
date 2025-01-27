@@ -92,9 +92,9 @@ ul li {
         <h2> Profesional Experience </h2>
         <p>Micron Technologies,Boise ID(Sep 2023 - Present)</p>
         <ul> <li>  </li>
-            <li>line 1 </li>
-            <li>line 1 </li>
-            <li>line 1 </li>
+            <li>Designed and developed scalable web applications using Java 8, Spring Boot, and React.js, implementing RESTful services and integrating advanced security features like OAuth 2.0 and JWT. Deployed and managed applications on AWS services including EC2, S3, RDS, and Kubernetes.</li>
+            <li>Built microservices using Spring Boot, Docker containers, and Amazon ECS, leveraging Apache Kafka for service interaction. Implemented CI/CD pipelines using Jenkins, ensuring seamless deployment and testing with JUnit. </li>
+            <li>Delivered high-quality software in Agile/SCRUM environments, actively contributing to requirement analysis, design, and iterative development. Collaborated with cross-functional teams to ensure project goals were met, leveraging tools like Eclipse and Log4j for development and debugging.</li>
         </ul>
         <p>Micron Technologies,Boise ID(Sep 2023 - Present)</p>
         <ul> <li>line 1 </li>
