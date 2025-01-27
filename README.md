@@ -1,6 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
 
+<img src="https://github.com/user-attachments/assets/0c950703-6767-427b-bf36-70a27a34daa1" alt="Profile Picture" width="200" height="200">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
