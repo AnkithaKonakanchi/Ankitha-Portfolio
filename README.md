@@ -66,9 +66,7 @@ ul li {
         <section id="about">
             <h2>About Me</h2>
             <p>
-               Hi I'm Ankitha, I am a results-oriented Full Stack Developer with over 5 years of experience designing and developing scalable, high-performing web and software solutions. My technical expertise encompasses front-end frameworks such as React and Angular, combined with back-end development using Node.js to deliver seamless, end-to-end applications.I specialize in building responsive, user-friendly interfaces and architecting efficient server-side solutions with optimized data management using SQL and NoSQL databases. Additionally, I have extensive experience leveraging cloud platforms like AWS to design scalable systems and implement CI/CD pipelines for efficient deployment and continuous delivery.
-
-            </p>
+               Hi I'm Ankitha, I am a results-oriented Full Stack Developer with over 5 years of experience designing and developing scalable, high-performing web and software solutions. My technical expertise encompasses front-end frameworks such as React and Angular, combined with back-end development using Node.js to deliver seamless, end-to-end applications.I specialize in building responsive, user-friendly interfaces and architecting efficient server-side solutions with optimized data management using SQL and NoSQL databases. Additionally, I have extensive experience leveraging cloud platforms like AWS to design scalable systems and implement CI/CD pipelines for efficient deployment and continuous delivery.</p>
         </section>
 
 <section id="skills">
@@ -99,27 +97,25 @@ ul li {
             <li>Migrated on-premises servers and databases to cloud platforms while developing robust middle-tier applications with JPA-Hibernate and SQL optimization. Actively contributed to Agile processes through sprint planning, daily stand-ups, and collaborative development in SCRUM environments.</li>
         </ul>
         <h3> Full Stack Developer </h3>
-        <p>Gainwell Insurance,Salt lake City Utah(Feb 2019 - Sep 2021)</p>
+        <b><p>Gainwell Insurance,Salt lake City Utah(Feb 2019 - Sep 2021)</p></b>
         <ul style="list-style-type:disc;">
             <li>Designed and developed user-centric web applications using Java SE/EE, React.js, ES6, and TypeScript. Built dynamic and interactive UIs with React components, implementing routing services and HTTP client interceptors for secure and efficient communication with backend services.</li>
             <li>Migrated on-premises Java applications to Azure Virtual Machines and Azure SQL Database, enhancing performance and scalability. Deployed frontend applications on Azure App Service, integrating seamlessly with RESTful backend APIs.</li>
             <li>Automated build and deployment pipelines using Azure DevOps and Jenkins. Collaborated in Agile environments, utilizing tools like Slack and GitHub for efficient development, while providing user support, training, and maintenance for existing applications</li>
         </ul>
         <h3> Java Developer </h3>
-        <p>eClerk, Mumbai India</p>
+        <b><p>eClerk, Mumbai India (Feb 2018 - Jan 2019)</p></b>
         <ul style="list-style-type:disc;"> 
             <li>Designed and developed dynamic single-page applications (SPAs) using Angular, HTML5, CSS3, and Bootstrap. Built and deployed microservices with Spring Boot and Spring Cloud, integrating RESTful APIs for seamless data retrieval and client-server interaction. </li>
             <li>Migrated and deployed applications to AWS Cloud using EC2 instances and Jenkins for automated CI/CD pipelines. Utilized AWS SDK and custom scripts for managing cloud resources, ensuring efficient deployment and scalability</li>
             <li> Collaborated in Agile/Scrum environments, applying TDD principles and implementing design patterns like Singleton, Factory, and DAO. Developed middleware services using EJBs and JMS, while conducting thorough unit testing with JUnit to ensure robust software delivery</li>
         </ul>
-    
-
 <section id="contact">
             <h2>Contact</h2>
             <div class="contact">
                 <p>Email: <a href="mailto:kankitha1803@gmail.com">kankitha1803@gmail.com</a></p>
-                <p>Phone: +1-414-578-0677</p>
-                <p>LinkedIn: <a href="https://www.linkedin.com/in/ankitha-konakanchi-7b93302b1" target="_blank">https://www.linkedin.com/in/ankitha-konakanchi-7b93302b1</a></p>
+                <p>Phone: +1-414-376-8003</p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/ankitha-konakanchi/" target="_blank">https://www.linkedin.com/in/ankitha-konakanchi/</a></p>
                 <p>GitHub: <a href="https://github.com/AnkithaKonakanchi" target="_blank">github.com/ankitha</a></p>
             </div>
         </section>
