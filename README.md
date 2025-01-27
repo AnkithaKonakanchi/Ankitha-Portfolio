@@ -91,7 +91,12 @@ ul li {
         </section>
         <section id = "Professional Experience">
         <h2> Full Stack Developer</h2>
-        <p>class = "label">Micron Technologies,Boise ID(Sep 2023 - Present)</p>
+        <p>Micron Technologies,Boise ID(Sep 2023 - Present)</p>
+        <ul> <li>line 1 </li>
+            <li>line 1 </li>
+            <li>line 1 </li>
+            <li>line 1 </li>
+        </ul>
         
 
 <section id="projects">
