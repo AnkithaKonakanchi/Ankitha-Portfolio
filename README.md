@@ -91,7 +91,7 @@ ul li {
         </section>
         <h2> Profesional Experience </h2>
         <p>Micron Technologies,Boise ID(Sep 2023 - Present)</p>
-        <ul> <li>line 1 </li>
+        <ul> <li>  </li>
             <li>line 1 </li>
             <li>line 1 </li>
             <li>line 1 </li>
@@ -114,38 +114,7 @@ ul li {
             <li>line 1 </li>
             <li>line 1 </li>
         </ul>
-        
-
-<section id="projects">
-            <h2>Projects</h2>
-            <ul>
-                <li>
-                    <strong>E-commerce Website:</strong> Developed a fully functional e-commerce platform using
-                    React.js, Node.js, and MongoDB. Implemented features like user authentication, product listing, and
-                    payment gateway integration.
-                </li>
-                <li>
-                    <strong>Portfolio Website:</strong> Designed and developed a personal portfolio website using HTML,
-                    CSS, and JavaScript to showcase projects and skills.
-                </li>
-                <li>
-                    <strong>Task Management App:</strong> Created a task management app using Angular and Firebase,
-                    enabling users to create, edit, and track tasks.
-                </li>
-            </ul>
-        </section>
-
-<section id="education">
-            <h2>Education</h2>
-            <ul>
-                <li>
-                    <strong>Bachelor's in Computer Science</strong> - Rkdf University (Year of Graduation: 2021)
-                </li>
-                <li>
-                    Relevant Coursework: Data Structures, Algorithms, Web Development, Database Management
-                </li>
-            </ul>
-        </section>
+    
 
 <section id="contact">
             <h2>Contact</h2>
@@ -158,5 +127,3 @@ ul li {
         </section>
     </div>
 </body>
-
-</html>
