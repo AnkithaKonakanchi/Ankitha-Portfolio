@@ -66,7 +66,7 @@ ul li {
         <section id="about">
             <h2>About Me</h2>
             <p>
-               Hi I'm Ankitha, I am a results-oriented Full Stack Developer with over 5 years of experience designing and developing scalable, high-performing web and software solutions. My technical expertise encompasses front-end frameworks such as React and Angular, combined with back-end development using Node.js to deliver seamless, end-to-end applications.I specialize in building responsive, user-friendly interfaces and architecting efficient server-side solutions with optimized data management using SQL and NoSQL databases. Additionally, I have extensive experience leveraging cloud platforms like AWS to design scalable systems and implement CI/CD pipelines for efficient deployment and continuous delivery.</p>
+               Hi I'm Ankitha, I am a results-oriented Full Stack Developer with over 7 years of experience designing and developing scalable, high-performing web and software solutions. My technical expertise encompasses front-end frameworks such as React and Angular, combined with back-end development using Node.js to deliver seamless, end-to-end applications.I specialize in building responsive, user-friendly interfaces and architecting efficient server-side solutions with optimized data management using SQL and NoSQL databases. Additionally, I have extensive experience leveraging cloud platforms like AWS to design scalable systems and implement CI/CD pipelines for efficient deployment and continuous delivery.</p>
         </section>
 
 <section id="skills">
