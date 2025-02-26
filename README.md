@@ -1,4 +1,4 @@
-<img src="WhatsApp Image 2025-02-26 at 11.24.59_4d1f7be1.jpg" alt="Profile Picture" width="250" height="300">
+<img src="WhatsApp Image 2025-02-26 at 11.24.59_4d1f7be1.jpg" alt="Profile Picture" width="300" height="300">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
